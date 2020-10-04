@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Discussion/Arxiv/Cubical Type Theory, a constructive interpretation of\nthe univalence axiom.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discussion/Arxiv/Cubical Type Theory, a constructive interpretation of\nthe univalence axiom.md"
+                "file": "README.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
+    "Funding/README.md.md",
+    "Untitled.md",
     "Discussion/Arxiv/Cubical Type Theory, a constructive interpretation of\nthe univalence axiom.md",
     "People/Aaron Hsu.md",
     "People/Barry Jay.md",
     "People/Donald Knuth.md",
     "People/Edwin Brady.md",
     "People/Hillel Wayne.md",
-    "People/Jeremy Gibbons.md",
-    "People/Justin Sun.md",
-    "Funding/Venture Capital/Untitled.md",
-    "Funding/Venture Capital/Root.vc.md"
+    "People/Jeremy Gibbons.md"
   ]
 }
