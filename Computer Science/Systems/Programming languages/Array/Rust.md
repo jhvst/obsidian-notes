@@ -1,0 +1,1 @@
+Understanding and Evolving the Rust Programming Language https://people.mpi-sws.org/~jung/phd/thesis-screen.pdf [[Separation Logic]] [[PhD thesis]]

@@ -1,0 +1,1 @@
+How Futhark implements bounds checking on the [[GPU]] https://futhark-lang.org/blog/2020-07-13-bounds-checking.html# [[GPGPU]] [[2020]]

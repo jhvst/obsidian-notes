@@ -1,0 +1,1 @@
+The categories are taken from https://csrankings.org/

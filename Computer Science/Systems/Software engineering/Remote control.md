@@ -1,0 +1,1 @@
+How to remotely control which OS Grub boots? https://askubuntu.com/questions/661512/how-to-remotely-control-which-os-grub-boots

@@ -1,0 +1,1 @@
+https://twitter.com/codemeshio/status/1071373962674868225?lang=en [[vide]]

@@ -1,0 +1,1 @@
+Serverless Computing: One Step Forward, Two Steps Back https://news.ycombinator.com/item?id=18689544 [[2018]] [[Discussion]] [[FaaS]] [[Cost-modeling]] [[UC Berkeley]]

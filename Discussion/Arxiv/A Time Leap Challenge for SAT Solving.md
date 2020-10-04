@@ -1,0 +1,2 @@
+We compare the impact of hardware advancement and algorithm advancement for [[SAT]] solving over the last two decades. In particular, we compare 20-year-old SAT-solvers on new computer hardware with modern SAT-solvers on 20-year-old hardware. Our findings show that the progress on the algorithmic side has at least as much impact as the progress on the hardware side.
+ https://arxiv.org/abs/2008.02215 [[Algorithms]]

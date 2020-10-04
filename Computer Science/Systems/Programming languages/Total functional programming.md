@@ -1,0 +1,1 @@
+Total Functional Programming http://www.jucs.org/jucs_10_7/total_functional_programming/jucs_10_07_0751_0768_turner.pdf [[Martin-Löf]] [[Dependent types]]

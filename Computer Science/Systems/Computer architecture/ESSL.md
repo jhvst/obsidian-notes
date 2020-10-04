@@ -1,0 +1,1 @@
+OpenPOWER GPU-enabled architecture performance enhancement using the Engineering and Scientific Subroutine Library (ESSL) drop-in acceleration https://www.ibm.com/developerworks/library/l-openpower-gpu-architecture/index.html [[2017]] [[POWER]] [[GPGPU]] [[IBM]]

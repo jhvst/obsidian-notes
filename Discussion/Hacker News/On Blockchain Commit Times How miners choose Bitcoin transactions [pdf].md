@@ -1,0 +1,1 @@
+On Blockchain Commit Times: How miners choose [[Bitcoin]] transactions [pdf] https://news.ycombinator.com/item?id=24196031

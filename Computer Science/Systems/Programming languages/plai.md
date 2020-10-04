@@ -1,0 +1,1 @@
+This is the Web site for Programming Languages: Application and [[Interpretation]], often referred to by its initials as PLAI (pronounce it like “play”). Over the years well over fifty academic institutions (that I know of) have used PLAI. https://www.plai.org/ [[books]]

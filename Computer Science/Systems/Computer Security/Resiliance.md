@@ -1,0 +1,7 @@
+In 1996, the Turing-award-winning computer scientist C.A.R. Hoare wrote a paper with the title How Did Software Get So Reliable Without Proof? In this paper, Hoare grapples with the observation that software seems to be more reliable than computer science researchers expected was possible without the use of mathematical [[Proofs]] for [[Verification]] (emphasis added):
+
+> Twenty years ago it was reasonable to predict that the size and ambition of software products would be severely limited by the unreliability of their component programs … Dire warnings have been issued of the dangers of safety-critical software controlling health equipment, aircraft, weapons systems and industrial processes, including nuclear power stations … Fortunately, the problem of program [[correctness]] has turned out to be far less serious than predicted …
+
+> So the questions arise: why have twenty years of pessimistic predictions been falsified? Was it due to successful application of the results of the research which was motivated by the predictions? How could that be, when clearly little software has ever has been subjected to the rigours of formal proof?
+
+How did software get so reliable without proof?  https://news.ycombinator.com/item?id=22478585 [[Tony Hoare]] [[1996]]

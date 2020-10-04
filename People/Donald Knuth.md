@@ -1,0 +1,1 @@
+The Yoda of Silicon Valley https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html [[Algorithms]] 

@@ -1,0 +1,1 @@
+Hype man of the century https://www.theverge.com/platform/amp/21459906/bittorrent-tron-acquisition-justin-sun-us-china?__twitter_impression=true [[Bitcoin]] [[Ethereum]] [[BitTorrent]]

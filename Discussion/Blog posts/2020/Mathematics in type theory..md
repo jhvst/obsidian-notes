@@ -1,0 +1,1 @@
+[[Mathematics]] in [[Type theory]]. Posted on June 20, [[2020]] https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/ [[blog posts]] [[Proofs]]

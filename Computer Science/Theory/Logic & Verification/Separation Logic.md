@@ -1,0 +1,1 @@
+Foundations of Separation Logic https://chargueraud.org/teach/verif/

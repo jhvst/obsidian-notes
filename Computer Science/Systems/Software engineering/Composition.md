@@ -1,0 +1,1 @@
+People Don't Write Programs https://pron.github.io/posts/people-dont-write-programs [[2018]] [[Model checking]]

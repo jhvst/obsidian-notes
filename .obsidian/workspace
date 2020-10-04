@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "dfacda9b768f1357",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3a8add38faad35a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Discussion/Arxiv/Cubical Type Theory, a constructive interpretation of\nthe univalence axiom.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78b44c59edaf0198",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e9c05cb64662eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549c18495155e8ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4774856ec682a6d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "venture"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da0031886a25c1a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9abcc9412e696ecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffe615b98fe0623f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discussion/Arxiv/Cubical Type Theory, a constructive interpretation of\nthe univalence axiom.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Discussion/Arxiv/Cubical Type Theory, a constructive interpretation of\nthe univalence axiom.md",
+    "People/Aaron Hsu.md",
+    "People/Barry Jay.md",
+    "People/Donald Knuth.md",
+    "People/Edwin Brady.md",
+    "People/Hillel Wayne.md",
+    "People/Jeremy Gibbons.md",
+    "People/Justin Sun.md",
+    "Funding/Venture Capital/Untitled.md",
+    "Funding/Venture Capital/Root.vc.md"
+  ]
+}
