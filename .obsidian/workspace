@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Computer Science/Theory/Logic & Verification/Termination.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "Computer Science/Theory/Logic & Verification/Termination.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "Funding/README.md.md",
-    "Untitled.md",
-    "Discussion/Arxiv/Cubical Type Theory, a constructive interpretation of\nthe univalence axiom.md",
-    "People/Aaron Hsu.md",
-    "People/Barry Jay.md",
-    "People/Donald Knuth.md",
-    "People/Edwin Brady.md",
-    "People/Hillel Wayne.md",
-    "People/Jeremy Gibbons.md"
+    "Computer Science/Theory/Logic & Verification/Termination.md",
+    "Computer Science/Theory/Logic & Verification/Type theory.md",
+    "Consistency.md",
+    "People/David Hilbert.md",
+    "People/Untitled.md",
+    "Computer Science/Systems/Programming languages/DSLs/Untitled.md",
+    "Computer Science/Systems/Programming languages/Natural languages/Natural languages.md",
+    "Computer Science/README.md",
+    "Funding/README.md",
+    "README.md"
   ]
 }
