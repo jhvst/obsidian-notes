@@ -8,8 +8,10 @@
     "backlink": true,
     "command-palette": true,
     "markdown-importer": true,
-    "word-count": true
+    "word-count": true,
+    "publish": true
   },
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "PDFs"
+  "attachmentFolderPath": "PDFs",
+  "spellcheck": true
 }

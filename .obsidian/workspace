@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Theory/Logic & Verification/Termination.md",
+            "file": "Computer Science/Theory/Cryptography/Encryption.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "venture"
+                "query": "homo"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theory/Logic & Verification/Termination.md"
+                "file": "Computer Science/Theory/Cryptography/Encryption.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Computer Science/Theory/Logic & Verification/Termination.md",
-    "Computer Science/Theory/Logic & Verification/Type theory.md",
-    "Consistency.md",
+    "Computer Science/Theory/Cryptography/Encryption.md",
     "People/David Hilbert.md",
+    "People/Alan Turing.md",
+    "Computer Science/Theory/Turing machine.md",
     "People/Untitled.md",
-    "Computer Science/Systems/Programming languages/DSLs/Untitled.md",
-    "Computer Science/Systems/Programming languages/Natural languages/Natural languages.md",
-    "Computer Science/README.md",
-    "Funding/README.md",
-    "README.md"
+    "Computer Science/Theory/Untitled.md",
+    "Misc/Anthropology.md",
+    "Anonymity.md",
+    "Misc/Untitled.md",
+    "Computer Science/Systems/Computer networks/Blockchain/Blockchain.md"
   ]
 }

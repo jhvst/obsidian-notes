@@ -1,0 +1,1 @@
+Turing Machine Notation and Normal Form https://nickdrozd.github.io/2020/10/04/turing-machine-notation-and-normal-form.html

@@ -1,0 +1,1 @@
+DeFi Protocols for Loanable Funds: Interest Rates, Liquidity and Market Efficiency https://arxiv.org/pdf/2006.13922.pdf

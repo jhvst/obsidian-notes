@@ -1,0 +1,3 @@
+The fellowship is intended for students under the age of 23 and offers them a total of $100,000 over two years, as well as guidance and other resources, to drop out of school and pursue other work, which could involve scientific research, creating a startup, or working on a social movement. Selection for the fellowship is through a competitive annual process, with about 20–25 fellows selected annually. It has a selection rate below 0.1%. https://en.wikipedia.org/wiki/Thiel_Fellowship
+
+"It isn't in general an issue that you are not the best in academic subjects, as long as you have a record of completed projects" - a recipient

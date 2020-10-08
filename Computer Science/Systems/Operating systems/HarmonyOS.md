@@ -1,2 +1,13 @@
 [[Resources Trading]]
 
+HarmonyOS is an operating system by Huawei, with a central focus on inter-device resource sharing. The project, announced in fall of 2020, has been known [since at least 2018](https://www.theinformation.com/articles/chinas-huawei-plots-ai-push-with-project-da-vinci) by the project name Da Vinci.
+
+From my anecdotal talks with Huawei (e.g., see [1](https://www.kauppalehti.fi/uutiset/huawein-kieltaneet-maat-ampuvat-omaan-jalkaansa/f04b6515-a43d-4c15-9839-e2b36bf9de80)) the idea is to gain competitive advantage over other device manufacturers by leveraging inter-device cooperation between servers, mobile devices, and cellular masts. This way, HarmonyOS is an [[edge computing]] native platform.
+
+Some of my earlier work in edge computing has studied the same approach as a way to create nimble mobile [[augmented reality]] hardware. To my anecdotal experience, Huawei seems to be the only corporation which is making any apparent push towards the paradigm from the other cellular mast manufacturers.
+
+I would imagine that a project like this would have happened regardless of the trade sanctions with US and China. With project like this, in my opinion, Huawei gets a leeway to operate an App Store of the future, in which the apps are distributed computing applications. And compared to [[blockchain]] projects e.g., [Golem](https://golem.network/), [SONM](https://sonm.com/) or [[DFINITY]], Huawei can push the paradigm much more easily because they can OTA update their network to provide functionality for it. To understand this, it's relevant to know that mobile network operators don't usually create their own packet cores, but instead, they use whatever is being pushed upstream by companies which there are only few of, namingly, Nokia, Ericsson, Samsung, Huawei and ZTE (with the exception of initiatives such as [Mobile Edge X](https://mobiledgex.com/)courtesy of Deutsche Telekom a.k.a T-Mobile).
+
+It's rather easy to deduce that part of the trade war with China regarding telecommunications platforms was also to bootstrap independent US alternatives to mobile core system which integrate with edge computing. And it's not like US corporations are sleeping on the matter of fact either -- e.g., see [Microsoft initiatives](https://azure.microsoft.com/en-us/blog/microsoft-partners-with-the-telecommunications-industry-to-roll-out-5g-and-more/) and [Google Anthos](https://cloud.google.com/anthos) which provide managed on-premise datacenter solutions geared for telecoms.
+
+https://device.harmonyos.com/en/docs/start/learn/oem_des_feature-0000001055392618
